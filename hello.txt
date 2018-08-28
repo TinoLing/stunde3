@@ -5,7 +5,7 @@ ctype html>
   <title>FBS</title>
 </head>
 <body>
-Hallo FBS!
+Hallo FBS! Tolle WUrst
 </body>
 </html>
 
